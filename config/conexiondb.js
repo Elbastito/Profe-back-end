@@ -1,6 +1,6 @@
 // conexion.js
 const mongoose = require("mongoose");
-const URI="mongodb+srv://root:popotubo@cluster0.xtfqr.mongodb.net/libreta?retryWrites=true&w=majority";
+const URI="WWWW";
 
 
 //Conexion a la base de datos (Mongo Atlas)
